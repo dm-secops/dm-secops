@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Olá, eu sou @dm-secops
 
-<!--
-**dm-secops/dm-secops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 DevSecOps Learner & Automation Enthusiast
+Estudando como automatizar processos e garantir a segurança do ciclo de desenvolvimento.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ No meu radar de estudos:
+*   **Linguagem:** Python (Automação e Scripting) 🐍
+*   **Versionamento:** Domínio de Git & GitHub (Fluxos profissionais) 🏗️
+*   **Infra:** Linux & Segurança de Sistemas 🐧
+*   **Front-end:** Fundamentos (HTML5/CSS3) 🎨
+
+---
+> "Codificando com Python, protegendo com SecOps."
